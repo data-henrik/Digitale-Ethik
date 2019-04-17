@@ -10,5 +10,6 @@ work in progress
 
 * IBM THINKPolicy Blog: https://www.ibm.com/blogs/policy/
 * IBM THINK blog, data responsibility: https://www.ibm.com/blogs/think/category/data-responsibility/
-* Blog "Coming soon: EU Ethics Guidelines for Artificial Intelligence": https://www.ibm.com/blogs/policy/ai-ethics-guidelines/
+* Blog [Coming soon: EU Ethics Guidelines for Artificial Intelligence](https://www.ibm.com/blogs/policy/ai-ethics-guidelines/)
+* Blog [IBM Statement on EU Ethics Guidelines for Trustworthy AI](https://www.ibm.com/blogs/policy/ai-ethics-eu/)
 * Andrea Martin, IBM, stellt in der Enquete-Komission des Deutschen Bundestags die IBM-Richtlinien für Entwickler vor: https://dbtg.tv/cvid/7315021 / Deutscher Bundestag - Impulsvorträge zu ethischen Fragen rund um Künst­liche Intelli­genz https://www.bundestag.de/dokumente/textarchiv/2019/kw03-pa-enquete-ki-585354

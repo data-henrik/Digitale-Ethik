@@ -11,6 +11,8 @@ Eine knappe Definition von Ethik ist: "Ethik gibt dem Menschen Hilfen für sittl
 
 Note: Because my talk was in German, the resources on this page are meant for a German-speaking audience.
 
+# Vortrag "Digitale Ethik"
+
 # Links
 Die gesammelten Links zum Thema sind aus Organisationsgründen auf die folgenden Dateien aufgeteilt:
 
