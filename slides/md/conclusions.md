@@ -9,7 +9,7 @@
 - Datenschutz, Privatspäre und Sicherheit als Eckpfeiler   
 - Digitale Ethik unterstützt den Menschen – uns   
 - Aktivitäten in Politik / Gesellschaft, IBM(er) beteiligt und präsent   
-- Digitale Ethik: Was machst du? DEINE Entscheidung...   
+- Digitale Ethik: Was machst du? **DEINE** Entscheidung...   
 <br><br><br>
 @snapend
 
