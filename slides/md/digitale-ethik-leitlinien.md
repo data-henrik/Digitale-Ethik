@@ -2,7 +2,7 @@
 **Digitale Ethik: Leitlininen**
 @snapend
 
-@snap[south-west text-04]
+@snap[south-west text-07]
 **Datenökologische Verantwortung**   
 1. Die Privatsphäre soll geschützt werden.   
 2. Smart-Data-Ansätze sollen als Vorbild dienen.   
@@ -17,8 +17,9 @@
 **Folgenabschätzung & Nachhaltigkeit**    
 9. Künstliche Intelligenz soll werteorientiert gestaltet werden.   
 10. Die Digitalisierung soll dazu dienen, natürliche Ressourcen zu schonen.   
+<br><br><br>
 @snapend
 
-@snap[south-east]
+@snap[south-east text-04]
 Quelle: [Institut für Digitale Ethik](https://www.digitale-ethik.de/digitalkompetenz/10-ethische-unternehmensleitlinien/)
 @snapend
