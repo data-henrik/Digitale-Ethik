@@ -2,7 +2,7 @@
 **Digitale Ethik: Leitlininen**
 @snapend
 
-@snap[south-west list-content-concise]
+@snap[midpoint]
 **Datenökologische Verantwortung**
 1. Die Privatsphäre soll geschützt werden.
 2. Smart-Data-Ansätze sollen als Vorbild dienen.

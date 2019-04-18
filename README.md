@@ -1,3 +1,5 @@
+work in progress...
+
 # Digitale-Ethik - Versuch eines Überblicks
 Meine Folien zum oben genannten Vortrag und Links rund um das Thema "Digitale Ethik".
 
@@ -12,6 +14,12 @@ Eine knappe Definition von Ethik ist: "Ethik gibt dem Menschen Hilfen für sittl
 Note: Because my talk was in German, the resources on this page are meant for a German-speaking audience.
 
 # Vortrag "Digitale Ethik"
+
+Eine PDF-Datei meines IBM-internen Vortrags ist als [externe Vortragsversion zu Digitale Ethik](20190402_DigitaleEthik_HenrikLoeser_external.pdf) in diesem Repository verfügbar.
+
+Zudem bin ich dabei, einzelne Folien und damit den Vortrag nach Markdown zu übertragen und als GitPitch zur Verfügung zu stellen. [Der Vortrag kann durch Klick gestartet werden](https://gitpitch.com/data-henrik/Digitale-Ethik).
+
+Er besteht aus der Datei [PITCHME.md](PITCHME.md) und den dort eingebetteten Seiten aus dem Verzeichnis [slides](slides). Gerne kannst du Seiten ergänzen und neue Varianten bereitstellen.
 
 # Links
 Die gesammelten Links zum Thema sind aus Organisationsgründen auf die folgenden Dateien aufgeteilt:
