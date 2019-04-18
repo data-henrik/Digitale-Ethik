@@ -2,7 +2,7 @@
 Digitale Ethik - Themen (Auswahl)
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[south-west list-content-concise]
 @ul[list-bullets-black](false)
 - Ethik für den Bereich digitale Medien und Technologien
 - Digitale Transformation (Digitalisierung) der Arbeitswelt
