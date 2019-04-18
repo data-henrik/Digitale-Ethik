@@ -1,4 +1,6 @@
-@title[Digitale Ethik - Themen (Auswahl)]
+@snap[north-west]
+Digitale Ethik - Themen (Auswahl)
+@snapend
 
 @snap[south-west list-content-concise span-100]
 @ol[list-bullets-black](false)
