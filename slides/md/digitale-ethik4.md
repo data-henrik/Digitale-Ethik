@@ -1,5 +1,7 @@
 
-# Digitale Ethik?
+@snap[north-west text-08]
+**Digitale Ethik?**
+@snapend
 
 @snap[south-west list-content-concise text-06]
 @ul[list-bullets-black](false)

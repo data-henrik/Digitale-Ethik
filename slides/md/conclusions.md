@@ -1,8 +1,8 @@
-@snap[north-west]
+@snap[north-west text-08]
 **Zum Schluss**
 @snapend
 
-@snap[south-west list-content-concise text-06]
+@snap[south-west list-content-concise text-07]
 @ul[list-bullets-black](false)
 - KI zieht in fast alle Bereiche ein   
 - Transparenz / Erklärbarkeit und Fairness als Voraussetzung für Vertrauen in KI   
