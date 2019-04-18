@@ -1,3 +1,3 @@
 @snap[midpoint announcement-big-news]
-Warum...?
+# Warum...?
 @snapend
