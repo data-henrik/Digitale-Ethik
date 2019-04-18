@@ -1,0 +1,6 @@
+# Digitale Ethik ~
+ 
+
+#   Datenethik ~
+ 
+#       Algorithmenethik
