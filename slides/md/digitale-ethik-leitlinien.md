@@ -1,5 +1,5 @@
 @snap[north-west]
-**Digitale Ethik: Leitlininen**
+**Digitale Ethik: Leitlinien**
 @snapend
 
 @snap[south-west text-07]
