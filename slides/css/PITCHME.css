@@ -94,6 +94,11 @@
 
 /** Quotation Template Styles ***/
 
+.big {
+  font-size: 4em;
+}
+
+
 /** Announcements Template Styles ***/
 
 .announce-big-news {

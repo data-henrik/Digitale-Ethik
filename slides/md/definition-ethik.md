@@ -1,12 +1,12 @@
-@snap[north-west announce-big-news]
+@snap[north-west big]
 **Ethik**
 @snapend
 
-@snap[midpoint announce-big-news]
+@snap[midpoint big]
 gibt dem **Menschen Hilfen**
 @snapend
 
 
-@snap[south-east announce-big-news]
+@snap[south-east big]
 für sittliche **Entscheidungen**
 @snapend
