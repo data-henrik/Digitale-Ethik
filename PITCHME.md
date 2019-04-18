@@ -14,3 +14,4 @@ Dr. Henrik Loeser
 ---?include=slides/md/ai-whatever.md
 ---?include=slides/md/digitale-ethik4.md
 ---?include=slides/md/ki-vertrauen1.md
+---?include=slides/md/digitale-ethik-leitlinien.md
