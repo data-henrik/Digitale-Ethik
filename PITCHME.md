@@ -15,3 +15,4 @@ Dr. Henrik Loeser
 ---?include=slides/md/digitale-ethik4.md
 ---?include=slides/md/ki-vertrauen1.md
 ---?include=slides/md/digitale-ethik-leitlinien.md
+---?include=slides/md/conclusions.md
