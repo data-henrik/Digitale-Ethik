@@ -11,3 +11,4 @@ Dr. Henrik Loeser
 ---?include=slides/md/digitale-ethik3.md
 ---?include=slides/md/warum-titel.md
 ---?include=slides/md/ai-is-new-it.md
+---?include=slides/md/ai-whatever.md
