@@ -1,12 +1,12 @@
 @snap[north-west]
-**Ethik**
+# Ethik
 @snapend
 
 @snap[midpoint]
-gibt dem **Menschen Hilfen**
+### gibt dem **Menschen Hilfen** für sittliche
 @snapend
 
 
 @snap[south-east]
-für sittliche **Entscheidungen**
+# Entscheidungen
 @snapend
