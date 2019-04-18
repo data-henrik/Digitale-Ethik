@@ -1,9 +1,9 @@
 @snap[north-west]
-# Digitale Ethik?
+**Digitale Ethik?**
 @snapend
 
-@snap[south-west]
-@ul
+@snap[south-west list-content-concise]
+@ul[list-bullets-black](false)
 - Moral Machine (MIT): Kulturelle Unterschiede bewirken andere Entscheidungen
 - Autonomes Fahren: Wie entscheidet dein Auto?
 - Maschinelle Entscheidungen: Wer entscheidet über dich? Warum?

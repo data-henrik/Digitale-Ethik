@@ -1,5 +1,5 @@
 @snap[north-west]
-# Digitale Ethik - Themen (Auswahl)
+**Digitale Ethik - Themen (Auswahl)**
 @snapend
 
 @snap[south-west list-content-concise]
