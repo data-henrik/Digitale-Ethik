@@ -7,7 +7,8 @@
 theme : white
 #theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
-layout : top-left
+theme-override : slides/css/PITCHME.css
+layout : center
 highlight : hybrid
 logo : assets/images/ibmpos_blue.jpg
 logo-position : top-right
