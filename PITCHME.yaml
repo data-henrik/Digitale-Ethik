@@ -8,6 +8,7 @@ theme : simple
 theme-override : slides/css/PITCHME.css
 #layout : top-left
 layout: center
+eager-loading : true
 highlight : hybrid
 logo : assets/images/ibmpos_blue.jpg
 logo-position : top-right
