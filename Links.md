@@ -10,3 +10,4 @@ work in progress
 * [Gerd Leonhard](https://www.gerdleonhard.de/) mit Beiträgen und Büchern zum Thema Mensch vs. Maschine und Ethik.
 * Bertelsmann Stiftung: [Projekt Algorithmenethik](https://algorithmenethik.de/projekt/)
 * Bundesverband Digitale Wirtschaft (BVDW): [Mensch, Moral, Maschine – Digitale Ethik, Algorithmen und KI](https://www.bvdw.org/fileadmin/bvdw/upload/dokumente/BVDW_Digitale_Ethik.pdf)
+* Gesellschaft für Information e.V.: [GI-Zentrale verlässt Facebook](https://gi.de/meldung/gi-zentrale-verlaesst-facebook/)
