@@ -14,6 +14,7 @@ work in progress
 * https://www.acm.org/code-of-ethics
 * https://gi.de/ueber-uns/organisation/unsere-ethischen-leitlinien
 * https://gewissensbits.gi.de/
+* KI-Ethik beim Bayerischen Rundfunk: https://www.br.de/extra/ai-automation-lab/ki-ethik-100.html
 
 
 
@@ -26,4 +27,5 @@ unstrukturiert:
 - https://www.404media.co/where-facebooks-ai-slop-comes-from/
 - https://www.npr.org/2024/05/14/1251072726/ai-spam-images-facebook-linkedin-threads-meta
 - https://www.sueddeutsche.de/kultur/ki-perplexity-ai-amazon-fake-news-lux.57CBZTVAiUP6ASkSnJ19Pe?reduced=true
-- 
+- AI Alliance: https://thealliance.ai/
+- AI Alliance, The AI Trust and Safety User Guide: https://the-ai-alliance.github.io/trust-safety-user-guide/
