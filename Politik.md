@@ -7,5 +7,6 @@ Europäische Union:
 - EU: High-Level Expert Group on AI: https://ec.europa.eu/digital-single-market/en/high-level-expert-group-artificial-intelligence
 - https://artificialintelligenceact.eu/
 - https://de.wikipedia.org/wiki/Verordnung_%C3%BCber_k%C3%BCnstliche_Intelligenz
+- IBM: https://www.ibm.com/think/topics/eu-ai-act
 - DSGVO: https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung
 - DSGVO/Datenschutz-Grundverordnung: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504

@@ -1,6 +1,6 @@
 # Digitale Ethik: Projekte, Blogs, Code und mehr von IBM
 
-work in progress
+work in progress, always...
 
 * IBM Research on AI: https://www.research.ibm.com/artificial-intelligence/
 * Test bias / game: http://biasreduction.mybluemix.net/
@@ -18,4 +18,10 @@ work in progress
 neu:
 - IBM's AI Ethics Journey: https://www.ibm.com/downloads/documents/us-en/107a02f5d048f2e0
 - https://www.ibm.com/artificial-intelligence/ai-ethics
-- 
+- https://www.ibm.com/think/topics/eu-ai-act
+- Was ist Verantwortungsvolle KI?: https://www.ibm.com/de-de/think/topics/responsible-ai
+- IBMs Prinzipien für Vertrauen und Transparenz: https://www.ibm.com/de-de/policy/trust-transparency
+
+
+
+- IBM: A business and its beliefs - https://www.ibm.com/history/business-beliefs, download the book: https://www.ibm.com/downloads/cas/EXLYWL1Q
