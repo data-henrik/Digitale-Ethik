@@ -17,7 +17,8 @@ work in progress
 * KI-Ethik beim Bayerischen Rundfunk: https://www.br.de/extra/ai-automation-lab/ki-ethik-100.html
 
 
-
+- https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics und Kritik daran: https://archive.ph/20120722095837/http://www.ccsr.cse.dmu.ac.uk/resources/professionalism/codes/cei_command_com.htm
+- RFC, Ethics and the Internet (Jahr 1989): https://datatracker.ietf.org/doc/html/rfc1087, siehe auch https://en.wikipedia.org/wiki/Internet_Architecture_Board#RFC1087_%E2%80%93_Ethics_and_the_Internet_and_a_rise_to_modernity
 
 
 unstrukturiert:
@@ -29,3 +30,4 @@ unstrukturiert:
 - https://www.sueddeutsche.de/kultur/ki-perplexity-ai-amazon-fake-news-lux.57CBZTVAiUP6ASkSnJ19Pe?reduced=true
 - AI Alliance: https://thealliance.ai/
 - AI Alliance, The AI Trust and Safety User Guide: https://the-ai-alliance.github.io/trust-safety-user-guide/
+- Moral Machine (MIT): https://www.moralmachine.net, Ergebnisse: https://www.moralmachine.net/visualization/index.html
