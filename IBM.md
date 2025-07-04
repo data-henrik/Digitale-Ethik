@@ -21,6 +21,9 @@ neu:
 - https://www.ibm.com/think/topics/eu-ai-act
 - Was ist Verantwortungsvolle KI?: https://www.ibm.com/de-de/think/topics/responsible-ai
 - IBMs Prinzipien für Vertrauen und Transparenz: https://www.ibm.com/de-de/policy/trust-transparency
+- Best practices for augmenting human intelligence with AI: https://www.ibm.com/think/insights/ai-best-practices
+- IBM Consulting, AI governance services: https://www.ibm.com/consulting/ai-governance
+- Governing AI, AI risk atlas: https://dataplatform.cloud.ibm.com/docs/content/wsj/ai-risk-atlas/ai-risk-atlas.html?context=wx&audience=wd
 
 
 
