@@ -18,7 +18,7 @@ work in progress
 * Bitkom Strg+Alt+Entfernen, "Wie bringt man einer KI Moral und Ethik bei?": https://soundcloud.com/bitkom/ki_moral_ethik_gery_zollinger
 
 
-- https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics und Kritik daran: https://archive.ph/20120722095837/http://www.ccsr.cse.dmu.ac.uk/resources/professionalism/codes/cei_command_com.htm
+- https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics und Kritik daran: https://archive.ph/20120722095837/http://www.ccsr.cse.dmu.ac.uk/resources/professionalism/codes/cei_command_com.html
 - RFC, Ethics and the Internet (Jahr 1989): https://datatracker.ietf.org/doc/html/rfc1087, siehe auch https://en.wikipedia.org/wiki/Internet_Architecture_Board#RFC1087_%E2%80%93_Ethics_and_the_Internet_and_a_rise_to_modernity
 
 
