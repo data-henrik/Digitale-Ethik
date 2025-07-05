@@ -8,13 +8,14 @@ work in progress
 * [Prof. Dr. Oliver Bendel](http://www.oliverbendel.net/) und seine Seiten zum Thema [Informationsethik](http://www.informationsethik.net/) und [Maschinenethik](http://www.maschinenethik.net/)
 * [Dr. Sarah Spiekermann](https://www.sarahspiekermann.com/de/) und ihre [Bücher zum Thema Digitale Ethik](https://www.sarahspiekermann.com/de/autorin-de/#digital-ethics)
 * [Gerd Leonhard](https://www.gerdleonhard.de/) mit Beiträgen und Büchern zum Thema Mensch vs. Maschine und Ethik.
-* Bertelsmann Stiftung: [Projekt Algorithmenethik](https://algorithmenethik.de/projekt/)
-* Bundesverband Digitale Wirtschaft (BVDW): [Mensch, Moral, Maschine – Digitale Ethik, Algorithmen und KI](https://www.bvdw.org/fileadmin/bvdw/upload/dokumente/BVDW_Digitale_Ethik.pdf)
+* Bertelsmann Stiftung: [Projekt Algorithmenethik](https://algorithmenethik.de/projekt/) bzw. https://www.reframetech.de/
+* Bundesverband Digitale Wirtschaft (BVDW): [Mensch, Moral, Maschine – Digitale Ethik, Algorithmen und KI](https://www.bvdw.org/fileadmin/bvdw/upload/dokumente/BVDW_Digitale_Ethik.pdf), https://www.bvdw.org/news-und-publikationen/sechs-ethische-prinzipien-fuer-die-entwicklung-und-den-einsatz-von-ki/
 * Gesellschaft für Information e.V.: [GI-Zentrale verlässt Facebook](https://gi.de/meldung/gi-zentrale-verlaesst-facebook/)
 * https://www.acm.org/code-of-ethics
 * https://gi.de/ueber-uns/organisation/unsere-ethischen-leitlinien
 * https://gewissensbits.gi.de/
 * KI-Ethik beim Bayerischen Rundfunk: https://www.br.de/extra/ai-automation-lab/ki-ethik-100.html
+* Bitkom Strg+Alt+Entfernen, "Wie bringt man einer KI Moral und Ethik bei?": https://soundcloud.com/bitkom/ki_moral_ethik_gery_zollinger
 
 
 - https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics und Kritik daran: https://archive.ph/20120722095837/http://www.ccsr.cse.dmu.ac.uk/resources/professionalism/codes/cei_command_com.htm

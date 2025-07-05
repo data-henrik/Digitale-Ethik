@@ -10,3 +10,6 @@ Europäische Union:
 - IBM: https://www.ibm.com/think/topics/eu-ai-act
 - DSGVO: https://de.wikipedia.org/wiki/Datenschutz-Grundverordnung
 - DSGVO/Datenschutz-Grundverordnung: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504
+
+Vereinte Nationen, UN:
+- UNESCO, Recommendation on the Ethics of Artificial Intelligence, https://www.unesco.org/en/artificial-intelligence/recommendation-ethics und https://unesdoc.unesco.org/ark:/48223/pf0000381137
