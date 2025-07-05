@@ -13,3 +13,4 @@ Europäische Union:
 
 Vereinte Nationen, UN:
 - UNESCO, Recommendation on the Ethics of Artificial Intelligence, https://www.unesco.org/en/artificial-intelligence/recommendation-ethics und https://unesdoc.unesco.org/ark:/48223/pf0000381137
+- https://www.unesco.de/themen/ethik-neuer-technologien/kuenstliche-intelligenz/unesco-empfehlung-zur-ethik-der-ki/

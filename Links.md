@@ -32,3 +32,12 @@ unstrukturiert:
 - AI Alliance: https://thealliance.ai/
 - AI Alliance, The AI Trust and Safety User Guide: https://the-ai-alliance.github.io/trust-safety-user-guide/
 - Moral Machine (MIT): https://www.moralmachine.net, Ergebnisse: https://www.moralmachine.net/visualization/index.html
+- SAP, "Warum sich die überarbeitete KI-Ethikrichtlinie der SAP an der UNESCO-Empfehlung zur Ethik der künstlichen Intelligenz orientiert": https://news.sap.com/germany/2024/10/ki-ethikrichtlinie-sap-unesco-kuenstliche-intelligenz/
+- SAP: https://www.sap.com/germany/products/sustainability/our-approach/reporting-and-policies.html?url_id=text-de-newscenter%3ACRM-DX24-AAA-2486692_03&pdf-asset=a8431b91-117e-0010-bca6-c68f7e60039b&page=1
+- ISO: https://www.iso.org/artificial-intelligence/responsible-ai-ethics
+- Forbes, AI and business: https://www.forbes.com/councils/forbesbusinesscouncil/2024/04/16/20-essential-steps-for-ethically-leveraging-ai-in-your-business/
+- https://www.it-daily.net/it-management/ki/ethische-ki-als-schluessel-zum-nachhaltigen-geschaeftserfolg
+- https://midrange.de/vom-eu-ai-act-zum-geschaeftserfolg-ethische-ki-als-strategischer-imperativ/
+- Land Baden-Württemberg: https://wm.baden-wuerttemberg.de/de/arbeit/arbeitsmarktpolitik/ethische-und-sozial-vertraegliche-ki-in-unternehmen-forschungsprojekt
+- Deloitte, "KI-Ethik: Braucht Ihr Unternehmen einen Chief AI Ethics Officer?": https://www.deloitte.com/de/de/issues/innovation-ai/ki-ethik.html
+- https://www.aigl.blog/the-roi-of-ai-ethics-profiting-with-principles-for-the-future/

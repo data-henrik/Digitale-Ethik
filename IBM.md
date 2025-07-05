@@ -24,6 +24,7 @@ neu:
 - Best practices for augmenting human intelligence with AI: https://www.ibm.com/think/insights/ai-best-practices
 - IBM Consulting, AI governance services: https://www.ibm.com/consulting/ai-governance
 - Governing AI, AI risk atlas: https://dataplatform.cloud.ibm.com/docs/content/wsj/ai-risk-atlas/ai-risk-atlas.html?context=wx&audience=wd
+- ROI of AI Ethics: https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/roi-ai-ethics
 
 
 
