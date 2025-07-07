@@ -9,7 +9,7 @@ Eine knappe Definition von Ethik ist: "Ethik gibt dem Menschen Hilfen für sittl
  * Persönlichkeitsschutz und Datenschutz
  * Filterblasen und Einfluss auf Meinungsfreiheit und Demokratie
 
-[IBM hat über die Jahrzehnte hinweg Maßstäbe gesetzt](https://www.ibm.com/ibm/history/ibm100/us/en/icons/equalworkforce/transform/) durch die Beschäftigung von Farbigen, Frauen, Schwulen und Lesben. IBM hat früh den Datenschutz, den Schutz von Kunden- und Mitarbeiterdaten, als zentrales Thema aufgegriffen. Als IBMer habe ich daher verstehen wollen, wie es mit dem Thema Ethik und Künstliche Intelligenz bestellt ist. Daraus ist letztendlich ein interner Vortrag rund um "Digitale Ethik" entstanden. Auf Grund zahlreicher Anfragen und Rückmeldungen stelle ich die Ressourcen und eine von Powerpoint / LibreOffice nach Markdown konvertierte Version hier zur Verfügung. Ergänzungen, Hinweise und Rückmeldungen sind willkommen.
+[IBM hat über die Jahrzehnte hinweg Maßstäbe gesetzt](https://www.ibm.com/history/inside-ibm) durch die Beschäftigung von Farbigen, Frauen, Schwulen und Lesben. IBM hat früh den Datenschutz, den Schutz von Kunden- und Mitarbeiterdaten, als zentrales Thema aufgegriffen. Als IBMer habe ich daher verstehen wollen, wie es mit dem Thema Ethik und Künstliche Intelligenz bestellt ist. Daraus ist letztendlich ein interner Vortrag rund um "Digitale Ethik" entstanden. Auf Grund zahlreicher Anfragen und Rückmeldungen stelle ich die Ressourcen hier zur Verfügung. Ergänzungen, Hinweise und Rückmeldungen sind willkommen.
 
 Note: Because my talk was in German, the resources on this page are meant for a German-speaking audience.
 

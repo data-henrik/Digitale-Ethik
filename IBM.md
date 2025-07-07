@@ -1,6 +1,6 @@
 # Digitale Ethik: Projekte, Blogs, Code und mehr von IBM
 
-work in progress, always...
+work in progress, as always...
 
 * IBM Research on AI: https://www.research.ibm.com/artificial-intelligence/
 * Test bias / game: http://biasreduction.mybluemix.net/
