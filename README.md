@@ -1,5 +1,8 @@
 work in progress...
 
+![Bad AI Advise](images/Temptation_-_AI_Bad_Advisor.jpg)
+Quelle: https://www.evilaicartoons.com/archive/eliminate-bad-algorithmic-advisors
+
 # Digitale-Ethik - Versuch eines Überblicks
 Meine Folien zum oben genannten Vortrag und Links rund um das Thema "Digitale Ethik".
 
