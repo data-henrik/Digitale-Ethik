@@ -18,9 +18,10 @@ Note: Because my talk was in German, the resources on this page are meant for a 
 
 # Vortrag "Digitale Ethik"
 
-Eine PDF-Datei meines IBM-internen Vortrags ist als [externe Vortragsversion zu Digitale Ethik](20190402_DigitaleEthik_HenrikLoeser_external.pdf) in diesem Repository verfügbar.
+- Eine PDF-Datei meines IBM-internen Vortrags ist als [externe Vortragsversion zu Digitale Ethik](20190402_DigitaleEthik_HenrikLoeser_external.pdf) in diesem Repository verfügbar. (2019)
+- Eine neue, mehr an Kunden gerichtete und auf KI ausgelegte Fassung des Vortrags [Nun sag', wie hast du's mit den Daten?](20250708_DigitaleEthik_biz.pdf) ist ebenfalls verfügbar. (2025)
 
-Zudem bin ich dabei, einze
+
 
 # Links
 Die gesammelten Links zum Thema sind aus Organisationsgründen auf die folgenden Dateien aufgeteilt:
