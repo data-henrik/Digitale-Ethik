@@ -29,7 +29,6 @@ Die gesammelten Links zum Thema sind aus Organisationsgründen auf die folgenden
  * [Allgemein](Links.md): Links zum Thema Digitale Ethik, Daten- und Informationsethik, Ethik und Künstliche Intelligenz (KI)
  * [IBM-Ressourcen](IBM.md): Projekte, Blogs, Code und mehr von IBM
  * [Politik](Politik.md): Projekte und Komissionen auf politischer Ebene
- * [Zeitung](Zeitung.md): Links zu Zeitungsartikeln rund um Digitale Ethik und KI
 
 # Mithelfen / Contribute
 

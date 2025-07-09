@@ -4,6 +4,7 @@ siehe auch [IBM.md](IBM.md) und [Politik.md](Politik.md).
 
 ### Überblick zu Digitaler Ethik und Ethik in der IT-Branche
 
+* Goldene Regel: https://en.wikipedia.org/wiki/Golden_Rule
 * Wikipedia: https://de.wikipedia.org/wiki/Digitale_Ethik
 * Institut für Digitale Ethik, HdM, Stuttgart: https://www.digitale-ethik.de/
 * [Prof. Dr. Oliver Bendel](http://www.oliverbendel.net/) und seine Seiten zum Thema [Informationsethik](http://www.informationsethik.net/) und [Maschinenethik](http://www.maschinenethik.net/)
