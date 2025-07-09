@@ -44,6 +44,8 @@ siehe auch [IBM.md](IBM.md) und [Politik.md](Politik.md).
 - Land Baden-Württemberg: https://wm.baden-wuerttemberg.de/de/arbeit/arbeitsmarktpolitik/ethische-und-sozial-vertraegliche-ki-in-unternehmen-forschungsprojekt
 - Deloitte, "KI-Ethik: Braucht Ihr Unternehmen einen Chief AI Ethics Officer?": https://www.deloitte.com/de/de/issues/innovation-ai/ki-ethik.html
 - https://www.aigl.blog/the-roi-of-ai-ethics-profiting-with-principles-for-the-future/
+- https://cmr.berkeley.edu/2024/07/on-the-roi-of-ai-ethics-and-governance-investments-from-loss-aversion-to-value-generation/
+- Don't be evil: https://en.wikipedia.org/wiki/Don%27t_be_evil
 
 
 ### Artikel und Funde zum Thema
